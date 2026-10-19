@@ -9,6 +9,8 @@ package.name = airadarscanner
 # (str) Package domain (needed for android packaging)
 package.domain = org.radar
 
+version = 0.1
+
 # (list) Source files to include (let it include python files, png templates, etc.)
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
